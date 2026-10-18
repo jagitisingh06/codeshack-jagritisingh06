@@ -42,3 +42,13 @@ This repository is part of the CodeShack Week 1 Git and GitHub CLI task. It docu
 
 Understand how Git helps developers manage project history and collaborate on software projects.
 
+## Git WorkFlow
+a basic workflow is-
+1. Create or switch to a branch.
+2. Make changes to the project.
+3. Check changes with 'git status'.
+4. Stage changes with 'git add'.
+5. Commit changes with 'git commit'.
+6. Push changes to GitHub with 'git push'.
+7. Merge the copleted branch into 'main'.
+eof
